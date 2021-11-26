@@ -1,0 +1,9 @@
+.loginpage{
+    background-image: url("../../../Images/register_bg_2.png");
+    background-color: rgb(11, 6, 80);
+    background-position: center;
+    min-height: 100vh;
+    min-width: 100vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
